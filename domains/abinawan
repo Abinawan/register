@@ -1,0 +1,11 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/Abinawan/github-repository",
+    "owner": {
+        "username": "Abinawan",
+        "email": "daju.in.usa@gmail.com"
+    },
+    "record": {
+        "CNAME": "abinawan.github.io"
+    }
+}
